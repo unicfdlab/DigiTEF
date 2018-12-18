@@ -3,3 +3,4 @@ Digital TEst Facility - customized build of OpenFOAM, based on OpenFOAM+ and oth
 DigiTEF is distributed under GPL v.3 license and includes next parts:
 * OpenDTEF library
 * UniCFD lab modules
+** QGD & QHD solver for regularized gasdynamic and hydrodynamic equations
