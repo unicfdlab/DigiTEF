@@ -11,4 +11,5 @@ DigiTEF is distributed under GPL v.3 license and includes next parts:
     * Hybrid central solvers for compressible flows in Mach range from 0 to 5, https://github.com/unicfdlab/hybridCentralSolvers
     * libAcoustics library for far field acoustics, https://github.com/unicfdlab/libAcoustics
     * salinityBoussinesqFoam solver for buoyancy driven flows solver, https://github.com/unicfdlab/salinityBoussinesqPimpleFoam
+    * libSchemes library with tailored numerical schemes for advection, https://github.com/unicfdlab/libSchemes
     
